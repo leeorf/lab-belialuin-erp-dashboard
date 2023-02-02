@@ -6,7 +6,7 @@ const homepage = require("./package.json").homepage;
 
 module.exports = {
   output: {
-    publicPath: homepage,
+    publicPath: "https://leeorf.github.io/lab-belialuin-erp-dashboard/",
   },
 
   resolve: {
